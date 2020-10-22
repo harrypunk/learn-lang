@@ -17,3 +17,10 @@ Votre budget est un peu serré... mais pour ce prix là, je peux vous proposer u
 Il est meublé?  
 Oui, la cuisine a été entièrement rénovée et la salle de bains est toute neuve aussi. Voulez-vous le voir?  
 Pourquoi pas!
+
+## Practice  
+Le nombre donné par Lucia comprend les charges.  
+
+### à deux pas de  (two steps from, very near)  
+L'appartement est à deux pas du métro.  
+C'est à deux pas d'ici.  
