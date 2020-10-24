@@ -10,5 +10,11 @@ C'est ça! Je vais suivre une formation à l'université et ensuite je vais trav
 
 1. doué pour. have a gift for, good at  
 2. ingénieur. engineer  
-3. à mon compte.  
-4. épanouir. v. make sb happy
+3. à mon compte.  work on my own  
+4. épanouir. v. make sb happy  
+épanoui/épanouie. adj. fulfilled
+5. make a living.  
+Ma fille est très douée en informatique, elle veut en faire son métier.  
+She is good at it, she wants to make a living on it.
+6. conditionnel. devrais, serais  
+tu devrais faire des études de cuisine, tu serais une excellente cuisinière.
